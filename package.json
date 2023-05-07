@@ -45,7 +45,7 @@
     "antd": "^3.20.1",
     "bourbon": "^6.0.0",
     "classnames": "^2.2.6",
-    "gatsby": "^2.13.18",
+    "gatsby": "^5.9.0",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
